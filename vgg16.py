@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
     img_rows, img_cols = 224, 224 # Resolution of inputs
     channel = 3
-    num_classes = 10 
+    num_classes = 20
     batch_size = 16 
     nb_epoch = 10
 
